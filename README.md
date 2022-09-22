@@ -19,3 +19,7 @@ Or extract the latest revisions of each page to an org mode file:
 ```
 python export.py {moinmoin-pages-dir} --org-file {org-output-file}
 ```
+
+### Note
+
+If `rename.py` fails with a Unicode error make sure you have correctly [set up UTF8 environment](https://perlgeek.de/en/article/set-up-a-clean-utf8-environment).
