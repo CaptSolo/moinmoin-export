@@ -1,4 +1,4 @@
-This project performs basic export of [moinmoin](http://moinmoin.io) pages to separate files or to an [org mode](https://orgmode.org) file.
+This project performs basic export of [moinmoin](http://moinmo.in/) pages to separate files or to an [org mode](https://orgmode.org) file.
 
 # Usage
 
